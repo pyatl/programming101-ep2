@@ -5,6 +5,9 @@ Pass gcc path before pip because std gcc path in osx changed.
 
 
 Install on OSX: `python3 -m venv .venv`
+
 Run: `CC=/usr/bin/gcc pip install watchdog`
+
 Run: `python main.py`
+
 Stop: `ctrl + c` This means to hit the ctrl and the ckey at the same time.
