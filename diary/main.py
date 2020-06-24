@@ -9,6 +9,7 @@
 # - A way to save the information into separate files 
 # - with clear names.
 
+#!/usr/bin/env python3
 from datetime import datetime
 
 def get_daily_diary_input():
@@ -30,9 +31,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
