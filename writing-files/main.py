@@ -7,6 +7,3 @@ with open(filename, 'w') as f:
 goodbye = '\nGoodbye!'
 with open(filename, 'a') as f:
     f.write(goodbye)
-
-
-
